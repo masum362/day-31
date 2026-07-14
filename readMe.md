@@ -18,3 +18,8 @@ const students = [
   { name: "Jamal", marks: 30 },
 ];
 ```
+
+### Methods
+- deposit()
+- withdraw()
+- checkBalance()
